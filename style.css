@@ -1,0 +1,98 @@
+
+
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: #663399;
+    color: #663399;
+    font-size: 25px;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+-moz-box-align: center;
+}
+button{
+    background-color: #663399;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+
+}
+
+.button{
+    width: 250px;
+    height: 200px;
+    
+    color: #663399;
+    height: 700px;
+   
+}
+
+.topred{
+    width: 700px;
+    height: 100px;
+    vertical-align: top;
+}
+.saluzun{
+    width: 900px;
+    height: 100px;
+    vertical-align: bottom;
+float: right;
+position: absolute;
+}
+.uzunroq{
+    width: 900px;
+    height: 100px;
+    vertical-align: bottom;
+bottom: 480px;
+right: 725px;
+
+}
+.kaltaroq{
+    width: 300px;
+    height: 100px;
+    vertical-align: bottom;
+bottom: 480px;
+left: 272px;
+right: 50px;
+}
+.uylar{
+    left: 900px;
+    height: 100px;
+    width: 700px;
+bottom: 600px;
+position:relative;
+}
+.hovli{
+    bottom: 478px;
+    height: 100px;
+    width: 900px;
+    right: 400px;
+}
+.bino{
+    left: 270px;
+    height: 100px;
+    width: 200px;
+    bottom: 480px;
+}
+.lift{
+    bottom: 477px;
+    height: 100px;
+    width: 960px;
+    left: 300px ;
+}
+.tugadi{
+    bottom: 457px;
+    height: 200px;
+    width: 900px;
+    left: 300px;
+
+}
+.iziizi{
+    bottom: 457px;
+    left: 300px;
+    width: 900px;
+    height: 200px;
+}
